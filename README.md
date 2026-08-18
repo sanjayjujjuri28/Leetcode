@@ -5,12 +5,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
