@@ -18,6 +18,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,8 +47,10 @@
 | [0451-sort-characters-by-frequency](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 <!---LeetCode Topics End-->
