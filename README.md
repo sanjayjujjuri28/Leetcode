@@ -11,6 +11,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sanjayjujjuri28/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@
 | [1748-sum-of-unique-elements](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sanjayjujjuri28/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
