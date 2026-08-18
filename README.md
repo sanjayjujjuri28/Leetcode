@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1436-destination-city](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -15,6 +16,7 @@
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0771-jewels-and-stones](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1436-destination-city](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1436-destination-city/) | Easy |
@@ -30,6 +32,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0771-jewels-and-stones](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1436-destination-city](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
