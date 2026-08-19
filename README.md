@@ -11,6 +11,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1436-destination-city](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -26,6 +27,7 @@
 | [0692-top-k-frequent-words](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1436-destination-city](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -78,6 +80,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Binary Search
@@ -104,6 +107,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
 | ------- | ------- |
