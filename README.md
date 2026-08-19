@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -17,6 +18,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0771-jewels-and-stones](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
@@ -44,18 +46,22 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -73,4 +79,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
