@@ -8,12 +8,10 @@ class Solution {
                 z++;
             }
             if(z>k){
-               while(z>k){
-                  if(nums[i]==0){
-                    z--;
-                  }
-                  i++;
-               }
+              if(nums[i]==0){
+                z--;
+              }
+               i++;
             }
             maxLen=Math.max(maxLen,j-i+1);
             j++;
