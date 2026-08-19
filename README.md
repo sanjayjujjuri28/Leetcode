@@ -12,6 +12,7 @@
 | [0881-boats-to-save-people](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1436-destination-city](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -39,6 +40,7 @@
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +93,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
