@@ -15,6 +15,7 @@
 | [1386-cinema-seat-allocation](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1436-destination-city](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1436-destination-city/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -45,6 +46,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,4 +128,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 <!---LeetCode Topics End-->
