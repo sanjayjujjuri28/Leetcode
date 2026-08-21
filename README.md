@@ -50,6 +50,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +61,7 @@
 | [0771-jewels-and-stones](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1436-destination-city](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -141,4 +143,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanjayjujjuri28/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 <!---LeetCode Topics End-->
