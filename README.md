@@ -147,4 +147,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sanjayjujjuri28/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 <!---LeetCode Topics End-->
