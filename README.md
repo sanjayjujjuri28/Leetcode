@@ -64,6 +64,7 @@
 | [0771-jewels-and-stones](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1436-destination-city](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1927-sum-game](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Sorting
@@ -130,6 +131,7 @@
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1927-sum-game](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1927-sum-game/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +151,11 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1927-sum-game](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sanjayjujjuri28/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1927-sum-game/) | Medium |
 <!---LeetCode Topics End-->
