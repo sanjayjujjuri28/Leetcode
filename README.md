@@ -11,6 +11,7 @@
 | [0692-top-k-frequent-words](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -34,6 +35,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1436-destination-city](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1436-destination-city/) | Easy |
@@ -51,6 +53,7 @@
 | [0219-contains-duplicate-ii](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
