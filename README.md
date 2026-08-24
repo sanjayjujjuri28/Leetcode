@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -46,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -105,11 +107,13 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
