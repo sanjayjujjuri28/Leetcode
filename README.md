@@ -24,6 +24,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanjayjujjuri28/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sanjayjujjuri28/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sanjayjujjuri28/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sanjayjujjuri28/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sanjayjujjuri28/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
