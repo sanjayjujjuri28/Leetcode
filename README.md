@@ -160,6 +160,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0263-ugly-number](https://github.com/sanjayjujjuri28/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [1927-sum-game](https://github.com/sanjayjujjuri28/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/sanjayjujjuri28/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sanjayjujjuri28/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
